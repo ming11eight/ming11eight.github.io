@@ -1,4 +1,10 @@
-# Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer
+
+
+
+
+### 논문 요약
+
+----
 
 2022 MDPI 논문
 
