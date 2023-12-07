@@ -7,12 +7,10 @@
 ### Proposal
 
 - Propose a novel automated pipeline for the segmentation of MRI scans of patients with LARC in order to predict the response to nCRT using radiomic features.
+  - CRT : Chemoradiotherapy의 약어(화학방사선요법|암치료)
+  - LARC : Locally Advanced Rectal Cancer의 약어(장의 지역 진행성 암)
+    - 직장(Rectum) 암이 주변 조직이나 림프절에 확산하거나 주변 조직에 침범한 상태를 나타냅니다. "Locally Advanced"는 종양이 원래 발생한 장 부위를 벗어나지 않았지만 주변 조직에 확산되거나 침범한 상태를 의미
 
-CRT : Chemoradiotherapy의 약어(화학방사선요법|암치료)
-
-LARC : Locally Advanced Rectal Cancer의 약어(장의 지역 진행성 암)
-
-직장(Rectum) 암이 주변 조직이나 림프절에 확산하거나 주변 조직에 침범한 상태를 나타냅니다. "Locally Advanced"는 종양이 원래 발생한 장 부위를 벗어나지 않았지만 주변 조직에 확산되거나 침범한 상태를 의미
 
 - 후향적 분석이 포함됨(43명 환자의 T2-MRI )
 - The analysis of radiomic features allowed us to predict the TRG score, which agreed with the state-of-the-art results.
@@ -37,13 +35,15 @@ LARC : Locally Advanced Rectal Cancer의 약어(장의 지역 진행성 암)
 
 - Segmentation result
 
-​	![image-20231207105609978](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20231207105609978.png)
+​	![image-20231207110900249](../images/2023-12-07-Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer/image-20231207110900249.png)
+
+
 
 
 
 - Final result
 
-​	![image-20231207105711198](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20231207105711198.png)
+​	![image-20231207110914063](../images/2023-12-07-Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer/image-20231207110914063-1701914956447-1.png)
 
 
 
