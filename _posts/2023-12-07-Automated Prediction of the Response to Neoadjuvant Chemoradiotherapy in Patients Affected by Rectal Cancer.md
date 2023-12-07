@@ -20,14 +20,12 @@
 1. 자동으로 식별된 병변 부위에 대해 radiomics feature 100개 추출.(각 환자당)
 
 2. PCA(주성분분석)을 통해 co-linearities, non-informative components 제거
+   - PCA를 적용해 전체 분산의 90%를 대표하는 6개의 구성 요소를 찾음
 
-​	PCA를 적용해 전체 분산의 90%를 대표하는 6개의 구성 요소를 찾음
 
 3. SVC 이용해 분석
-
 4. 10 fold 교차 검증
-
-   평가 지표 : MCC(Matthews Correlation Coeffiecient)
+   - 평가 지표 : MCC(Matthews Correlation Coeffiecient)
 
 
 
