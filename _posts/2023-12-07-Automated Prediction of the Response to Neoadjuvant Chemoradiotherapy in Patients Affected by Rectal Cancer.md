@@ -1,6 +1,6 @@
 ---
 layout: single
-categories: Paper review
+categories: Paper-review
 tag: [MRI, segmentation]
 ---
 
@@ -43,7 +43,7 @@ tag: [MRI, segmentation]
 
 - Segmentation result
 
-![image-20231207110900249](../images/2023-12-07-Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer/image-20231207110900249.png)
+![image-20231207110900249](../../images/2023-12-07-Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer/image-20231207110900249.png)
 
 
 
@@ -51,7 +51,7 @@ tag: [MRI, segmentation]
 
 - Final result
 
-![image-20231207110914063](../images/2023-12-07-Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer/image-20231207110914063-1701914956447-1.png)
+![image-20231207110914063](../../images/2023-12-07-Automated Prediction of the Response to Neoadjuvant Chemoradiotherapy in Patients Affected by Rectal Cancer/image-20231207110914063-1701914956447-1.png)
 
 
 
