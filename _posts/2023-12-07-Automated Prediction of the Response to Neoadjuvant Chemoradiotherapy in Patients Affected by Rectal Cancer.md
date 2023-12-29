@@ -2,6 +2,7 @@
 layout: single
 categories: Paper-review
 tag: [MRI, segmentation]
+toc: true
 ---
 
 
